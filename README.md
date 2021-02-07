@@ -39,7 +39,7 @@ Welcome to my Advent of Code solutions hub repo!
 | 12  |||
 | 11  | [![](./logos/nim.png)][nim_20_11] | [![](./logos/nim.png)][nim_20_11] |
 | 10  | [![](./logos/nim.png)][nim_20_10] | [![](./logos/nim.png)][nim_20_10] |
-|  9  | [![](./logos/nim.png)][nim_20_9] | [![](./logos/nim.png)][nim_20_9] |
+|  9  | [![](./logos/rs.png)][rs_20_09] [![](./logos/nim.png)][nim_20_9] | [![](./logos/rs.png)][rs_20_17] [![](./logos/nim.png)][nim_20_9] |
 |  8  | [![](./logos/nim.png)][nim_20_8] | [![](./logos/nim.png)][nim_20_8] |
 |  7  | [![](./logos/nim.png)][nim_20_7] | [![](./logos/nim.png)][nim_20_7] |
 |  6  | [![](./logos/nim.png)][nim_20_6] | [![](./logos/nim.png)][nim_20_6] |
@@ -72,6 +72,8 @@ Welcome to my Advent of Code solutions hub repo!
 <!-- 19 -->
 [rs_20_18]: https://github.com/aod/advent-of-unwrap/blob/main/aoc-2020/src/bin/18/main.rs
 [rs_20_17]: https://github.com/aod/advent-of-unwrap/blob/main/aoc-2020/src/bin/17/main.rs
+<!-- ... -->
+[rs_20_09]: https://github.com/aod/advent-of-unwrap/blob/main/aoc-2020/src/bin/09/main.rs
 
 [ts_20_25]: https://github.com/aod/advent-of-deno/blob/main/src/2020/day25.ts
 [ts_20_24]: https://github.com/aod/advent-of-deno/blob/main/src/2020/day24.ts
