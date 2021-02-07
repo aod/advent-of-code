@@ -2,10 +2,22 @@
 
 Welcome to my Advent of Code solutions hub repo!
 
-- [Rust](./rust)
-- [TypeScript](./typescript)
-- [Nim](./nim)
-- [Clojure](./clojure)
+| Logo | Language | Repo |
+|:----:|----------|------|
+| ![](./logos/rs.png) | [Rust][rs_site] | [aod/advent-of-unwrap][rs_repo]
+| ![](./logos/nim.png) | [Nim][nim_site] | [aod/advent-of-nim][nim_repo]
+| ![](./logos/clj.png) | [Clojure][clj_site] | [aod/advent-of-clojure][clj_repo]
+| ![](./logos/ts.png) | [TypeScript][ts_site] | [aod/advent-of-deno][ts_repo]
+
+[rs_site]: https://www.rust-lang.org/
+[nim_site]: https://nim-lang.org/
+[clj_site]: https://clojure.org/
+[ts_site]: https://www.typescriptlang.org/
+
+[rs_repo]: https://github.com/aod/advent-of-unwrap
+[nim_repo]: https://github.com/aod/advent-of-nim
+[clj_repo]: https://github.com/aod/advent-of-clojure
+[ts_repo]: https://github.com/aod/advent-of-deno
 
 # Advent of Code 2020
 
