@@ -1,6 +1,6 @@
 [submodule "rust"]
 	path = rust
-	url = https://github.com/aod/advent-of-unwrap.git
+	url = https://github.com/aod/advent-of-rust.git
 [submodule "typescript"]
 	path = typescript
 	url = https://github.com/aod/advent-of-deno.git
