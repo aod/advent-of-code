@@ -1,0 +1,12 @@
+[submodule "rust"]
+	path = rust
+	url = https://github.com/aod/advent-of-unwrap.git
+[submodule "typescript"]
+	path = typescript
+	url = https://github.com/aod/advent-of-deno.git
+[submodule "nim"]
+	path = nim
+	url = https://github.com/aod/advent-of-nim.git
+[submodule "clojure"]
+	path = clojure
+	url = https://github.com/aod/advent-of-clojure.git
