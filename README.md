@@ -39,32 +39,32 @@ Welcome to my Advent of Code solutions hub repo!
 
 
 
-[nim_20_11]: ./nim/2020/day11.nim
-[nim_20_10]: ./nim/2020/day10.nim
-[nim_20_9]: ./nim/2020/day09.nim
-[nim_20_8]: ./nim/2020/day08.nim
-[nim_20_7]: ./nim/2020/day07.nim
-[nim_20_6]: ./nim/2020/day06.nim
-[nim_20_5]: ./nim/2020/day05.nim
-[nim_20_4]: ./nim/2020/day04.nim
-[nim_20_3]: ./nim/2020/day03.nim
-[nim_20_2]: ./nim/2020/day02.nim
-[nim_20_1]: ./nim/2020/day01.nim
+[nim_20_11]: https://github.com/aod/advent-of-nim/blob/main/2020/day11.nim
+[nim_20_10]: https://github.com/aod/advent-of-nim/blob/main/2020/day10.nim
+[nim_20_9]: https://github.com/aod/advent-of-nim/blob/main/2020/day09.nim
+[nim_20_8]: https://github.com/aod/advent-of-nim/blob/main/2020/day08.nim
+[nim_20_7]: https://github.com/aod/advent-of-nim/blob/main/2020/day07.nim
+[nim_20_6]: https://github.com/aod/advent-of-nim/blob/main/2020/day06.nim
+[nim_20_5]: https://github.com/aod/advent-of-nim/blob/main/2020/day05.nim
+[nim_20_4]: https://github.com/aod/advent-of-nim/blob/main/2020/day04.nim
+[nim_20_3]: https://github.com/aod/advent-of-nim/blob/main/2020/day03.nim
+[nim_20_2]: https://github.com/aod/advent-of-nim/blob/main/2020/day02.nim
+[nim_20_1]: https://github.com/aod/advent-of-nim/blob/main/2020/day01.nim
 
-[rs_20_25]: ./rust/aoc-2020/src/bin/25/main.rs
-[rs_20_24]: ./rust/aoc-2020/src/bin/24/main.rs
-[rs_20_23]: ./rust/aoc-2020/src/bin/23/main.rs
-[rs_20_22]: ./rust/aoc-2020/src/bin/22/main.rs
-[rs_20_21]: ./rust/aoc-2020/src/bin/21/main.rs
-[rs_20_20]: ./rust/aoc-2020/src/bin/20/main.rs
+[rs_20_25]: https://github.com/aod/advent-of-unwrap/blob/main/aoc-2020/src/bin/25/main.rs
+[rs_20_24]: https://github.com/aod/advent-of-unwrap/blob/main/aoc-2020/src/bin/24/main.rs
+[rs_20_23]: https://github.com/aod/advent-of-unwrap/blob/main/aoc-2020/src/bin/23/main.rs
+[rs_20_22]: https://github.com/aod/advent-of-unwrap/blob/main/aoc-2020/src/bin/22/main.rs
+[rs_20_21]: https://github.com/aod/advent-of-unwrap/blob/main/aoc-2020/src/bin/21/main.rs
+[rs_20_20]: https://github.com/aod/advent-of-unwrap/blob/main/aoc-2020/src/bin/20/main.rs
 <!-- 19 -->
-[rs_20_18]: ./rust/aoc-2020/src/bin/18/main.rs
-[rs_20_17]: ./rust/aoc-2020/src/bin/17/main.rs
+[rs_20_18]: https://github.com/aod/advent-of-unwrap/blob/main/aoc-2020/src/bin/18/main.rs
+[rs_20_17]: https://github.com/aod/advent-of-unwrap/blob/main/aoc-2020/src/bin/17/main.rs
 
-[ts_20_25]: ./typescript/src/2020/day25.ts
-[ts_20_24]: ./typescript/src/2020/day24.ts
-[ts_20_23]: ./typescript/src/2020/day23.ts
-[ts_20_22]: ./typescript/src/2020/day22.ts
+[ts_20_25]: https://github.com/aod/advent-of-deno/blob/main/src/2020/day25.ts
+[ts_20_24]: https://github.com/aod/advent-of-deno/blob/main/src/2020/day24.ts
+[ts_20_23]: https://github.com/aod/advent-of-deno/blob/main/src/2020/day23.ts
+[ts_20_22]: https://github.com/aod/advent-of-deno/blob/main/src/2020/day22.ts
 
 # Advent of Code 2015
 
@@ -97,20 +97,20 @@ Welcome to my Advent of Code solutions hub repo!
 |  1  | [![](./logos/clj.png)][clj_15_1] | [![](./logos/clj.png)][clj_15_1] |
 
 
-[clj_15_6]: ./clojure/src/xyz/oktaydinler/advent/edition2015/day06.clj
-[clj_15_5]: ./clojure/src/xyz/oktaydinler/advent/edition2015/day05.clj
-[clj_15_4]: ./clojure/src/xyz/oktaydinler/advent/edition2015/day04.clj
-[clj_15_2]: ./clojure/src/xyz/oktaydinler/advent/edition2015/day02.clj
-[clj_15_3]: ./clojure/src/xyz/oktaydinler/advent/edition2015/day03.clj
-[clj_15_1]: ./clojure/src/xyz/oktaydinler/advent/edition2015/day01.clj
+[clj_15_6]: https://github.com/aod/advent-of-clojure/blob/master/src/xyz/oktaydinler/advent/edition2015/day06.clj
+[clj_15_5]: https://github.com/aod/advent-of-clojure/blob/master/src/xyz/oktaydinler/advent/edition2015/day05.clj
+[clj_15_4]: https://github.com/aod/advent-of-clojure/blob/master/src/xyz/oktaydinler/advent/edition2015/day04.clj
+[clj_15_2]: https://github.com/aod/advent-of-clojure/blob/master/src/xyz/oktaydinler/advent/edition2015/day02.clj
+[clj_15_3]: https://github.com/aod/advent-of-clojure/blob/master/src/xyz/oktaydinler/advent/edition2015/day03.clj
+[clj_15_1]: https://github.com/aod/advent-of-clojure/blob/master/src/xyz/oktaydinler/advent/edition2015/day01.clj
 
-[nim_15_17]: ./nim/2015/day17.nim
-[nim_15_16]: ./nim/2015/day16.nim
-[nim_15_15]: ./nim/2015/day15.nim
-[nim_15_14]: ./nim/2015/day14.nim
-[nim_15_13]: ./nim/2015/day13.nim
-[nim_15_12]: ./nim/2015/day12.nim
-[nim_15_11]: ./nim/2015/day11.nim
+[nim_15_17]: https://github.com/aod/advent-of-nim/blob/main/2015/day17.nim
+[nim_15_16]: https://github.com/aod/advent-of-nim/blob/main/2015/day16.nim
+[nim_15_15]: https://github.com/aod/advent-of-nim/blob/main/2015/day15.nim
+[nim_15_14]: https://github.com/aod/advent-of-nim/blob/main/2015/day14.nim
+[nim_15_13]: https://github.com/aod/advent-of-nim/blob/main/2015/day13.nim
+[nim_15_12]: https://github.com/aod/advent-of-nim/blob/main/2015/day12.nim
+[nim_15_11]: https://github.com/aod/advent-of-nim/blob/main/2015/day11.nim
 
 <!--
 
