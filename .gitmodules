@@ -10,3 +10,6 @@
 [submodule "clojure"]
 	path = clojure
 	url = https://github.com/aod/advent-of-clojure.git
+[submodule "javascript"]
+	path = javascript
+	url = https://github.com/aod/advent-of-javascript.git

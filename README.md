@@ -8,6 +8,7 @@ Welcome to my Advent of Code solutions hub repo!
 | ![](./logos/nim.png) | [Nim][nim_site] | [aod/advent-of-nim][nim_repo]
 | ![](./logos/clj.png) | [Clojure][clj_site] | [aod/advent-of-clojure][clj_repo]
 | ![](./logos/ts.png) | [TypeScript][ts_site] | [aod/advent-of-deno][ts_repo]
+| ![](./logos/js.png) | [JavaScript][js_site] | [aod/advent-of-javascript][js_repo]
 
 [rs_site]: https://www.rust-lang.org/
 [rs_repo]: https://github.com/aod/advent-of-rust
@@ -24,6 +25,10 @@ Welcome to my Advent of Code solutions hub repo!
 [ts_site]: https://www.typescriptlang.org/
 [ts_repo]: https://github.com/aod/advent-of-deno
 [ts_l]: ./logos/ts.png
+
+[js_site]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[js_repo]: https://github.com/aod/advent-of-javascript
+[js_l]: ./logos/js.png
 
 # Advent of Code 2020
 
@@ -83,6 +88,164 @@ Welcome to my Advent of Code solutions hub repo!
 [ts_20_24]: https://github.com/aod/advent-of-deno/blob/main/src/2020/day24.ts
 [ts_20_23]: https://github.com/aod/advent-of-deno/blob/main/src/2020/day23.ts
 [ts_20_22]: https://github.com/aod/advent-of-deno/blob/main/src/2020/day22.ts
+
+# Advent of Code 2019
+
+| Day | Part 1 | Part 2 |
+|----:|--------|--------|
+| 25  |||
+| 24  |||
+| 23  |||
+| 22  |||
+| 21  |||
+| 20  |||
+| 19  |||
+| 18  |||
+| 17  |||
+| 16  |||
+| 15  |||
+| 14  |||
+| 13  |||
+| 12  |||
+| 11  |||
+| 10  |||
+|  9  | [![js_l]][js_17_9-1] | [![js_l]][js_17_9-2] |
+|  8  | [![js_l]][js_17_8-1] | [![js_l]][js_17_8-2] |
+|  7  | [![js_l]][js_17_7-1] | [![js_l]][js_17_7-2] |
+|  6  | [![js_l]][js_17_6-1] | [![js_l]][js_17_6-2] |
+|  5  | [![js_l]][js_17_5-1] | [![js_l]][js_17_5-2] |
+|  4  | [![js_l]][js_17_4-1] | [![js_l]][js_17_4-2] |
+|  3  | [![js_l]][js_17_3-1] | [![js_l]][js_17_3-2] |
+|  2  | [![js_l]][js_17_2-1] | [![js_l]][js_17_2-2] |
+|  1  | [![js_l]][js_17_1-1] | [![js_l]][js_17_1-2] |
+
+[js_17_9-1]: https://github.com/aod/advent-of-javascript/blob/master/2019/day09/part1.js
+[js_17_9-2]: https://github.com/aod/advent-of-javascript/blob/master/2019/day09/part2.js
+[js_17_8-1]: https://github.com/aod/advent-of-javascript/blob/master/2019/day08/part1.js
+[js_17_8-2]: https://github.com/aod/advent-of-javascript/blob/master/2019/day08/part2.js
+[js_17_7-1]: https://github.com/aod/advent-of-javascript/blob/master/2019/day07/part1.js
+[js_17_7-2]: https://github.com/aod/advent-of-javascript/blob/master/2019/day07/part2.js
+[js_17_6-1]: https://github.com/aod/advent-of-javascript/blob/master/2019/day06/part1.js
+[js_17_6-2]: https://github.com/aod/advent-of-javascript/blob/master/2019/day06/part2.js
+[js_17_5-1]: https://github.com/aod/advent-of-javascript/blob/master/2019/day05/part1.js
+[js_17_5-2]: https://github.com/aod/advent-of-javascript/blob/master/2019/day05/part2.js
+[js_17_4-1]: https://github.com/aod/advent-of-javascript/blob/master/2019/day04/part1.js
+[js_17_4-2]: https://github.com/aod/advent-of-javascript/blob/master/2019/day04/part2.js
+[js_17_3-1]: https://github.com/aod/advent-of-javascript/blob/master/2019/day03/part1.js
+[js_17_3-2]: https://github.com/aod/advent-of-javascript/blob/master/2019/day03/part2.js
+[js_17_2-1]: https://github.com/aod/advent-of-javascript/blob/master/2019/day02/part1.js
+[js_17_2-2]: https://github.com/aod/advent-of-javascript/blob/master/2019/day02/part2.js
+[js_17_1-1]: https://github.com/aod/advent-of-javascript/blob/master/2019/day01/part1.js
+[js_17_1-2]: https://github.com/aod/advent-of-javascript/blob/master/2019/day01/part2.js
+
+# Advent of Code 2018
+
+| Day | Part 1 | Part 2 |
+|----:|--------|--------|
+| 25  |||
+| 24  |||
+| 23  |||
+| 22  |||
+| 21  |||
+| 20  |||
+| 19  |||
+| 18  |||
+| 17  |||
+| 16  |||
+| 15  |||
+| 14  |||
+| 13  |||
+| 12  |||
+| 11  |||
+| 10  |||
+|  9  |||
+|  8  |||
+|  7  | [![js_l]][js_17_7-1] | [![js_l]][js_17_7-2] |
+|  6  |||
+|  5  |||
+|  4  |||
+|  3  | [![js_l]][js_17_3-1] | [![js_l]][js_17_3-2] |
+|  2  | [![js_l]][js_17_2-1] | [![js_l]][js_17_2-2] |
+|  1  | [![js_l]][js_17_1-1] | [![js_l]][js_17_1-2] |
+
+
+[js_17_7-1]: https://github.com/aod/advent-of-javascript/blob/master/2018/day07/part1.js
+[js_17_7-2]: https://github.com/aod/advent-of-javascript/blob/master/2018/day07/part2.js
+[js_17_3-1]: https://github.com/aod/advent-of-javascript/blob/master/2018/day03/part1.js
+[js_17_3-2]: https://github.com/aod/advent-of-javascript/blob/master/2018/day03/part2.js
+[js_17_2-1]: https://github.com/aod/advent-of-javascript/blob/master/2018/day02/part1.js
+[js_17_2-2]: https://github.com/aod/advent-of-javascript/blob/master/2018/day02/part2.js
+[js_17_1-1]: https://github.com/aod/advent-of-javascript/blob/master/2018/day01/part1.js
+[js_17_1-2]: https://github.com/aod/advent-of-javascript/blob/master/2018/day01/part2.js
+
+# Advent of Code 2017
+
+| Day | Part 1 | Part 2 |
+|----:|--------|--------|
+| 25  |||
+| 24  |||
+| 23  |||
+| 22  |||
+| 21  |||
+| 20  |||
+| 19  |||
+| 18  |||
+| 17  | [![js_l]][js_17_17-1] | |
+| 16  | [![js_l]][js_17_16-1] | [![js_l]][js_17_16-2] |
+| 15  | [![js_l]][js_17_15-1] | [![js_l]][js_17_15-2] |
+| 14  | [![js_l]][js_17_14-1] | [![js_l]][js_17_14-2] |
+| 13  | [![js_l]][js_17_13-1] | [![js_l]][js_17_13-2] |
+| 12  | [![js_l]][js_17_12-1] | [![js_l]][js_17_12-2] |
+| 11  | [![js_l]][js_17_11-1] | [![js_l]][js_17_11-2] |
+| 10  | [![js_l]][js_17_10-1] | [![js_l]][js_17_10-2] |
+|  9  | [![js_l]][js_17_9-1] | [![js_l]][js_17_9-2] |
+|  8  | [![js_l]][js_17_8-1] | [![js_l]][js_17_8-2] |
+|  7  | [![js_l]][js_17_7-1] | [![js_l]][js_17_7-2] |
+|  6  | [![js_l]][js_17_6-1] | [![js_l]][js_17_6-2] |
+|  5  | [![js_l]][js_17_5-1] | [![js_l]][js_17_5-2] |
+|  4  | [![js_l]][js_17_4-1] | [![js_l]][js_17_4-2] |
+|  3  | [![js_l]][js_17_3-1] | [![js_l]][js_17_3-2] |
+|  2  | [![js_l]][js_17_2-1] | [![js_l]][js_17_2-2] |
+|  1  | [![js_l]][js_17_1-1] | [![js_l]][js_17_1-2] |
+
+[js_17_17-1]: https://github.com/aod/advent-of-javascript/blob/master/2017/day17/part1.js
+[js_17_17-2]: https://github.com/aod/advent-of-javascript/blob/master/2017/day17/part2.js
+[js_17_16-1]: https://github.com/aod/advent-of-javascript/blob/master/2017/day16/part1.js
+[js_17_16-2]: https://github.com/aod/advent-of-javascript/blob/master/2017/day16/part2.js
+[js_17_15-1]: https://github.com/aod/advent-of-javascript/blob/master/2017/day15/part1.js
+[js_17_15-2]: https://github.com/aod/advent-of-javascript/blob/master/2017/day15/part2.js
+[js_17_14-1]: https://github.com/aod/advent-of-javascript/blob/master/2017/day14/part1.js
+[js_17_14-2]: https://github.com/aod/advent-of-javascript/blob/master/2017/day14/part2.js
+[js_17_13-1]: https://github.com/aod/advent-of-javascript/blob/master/2017/day13/part1.js
+[js_17_13-2]: https://github.com/aod/advent-of-javascript/blob/master/2017/day13/part2.js
+[js_17_12-1]: https://github.com/aod/advent-of-javascript/blob/master/2017/day12/part1.js
+[js_17_12-2]: https://github.com/aod/advent-of-javascript/blob/master/2017/day12/part2.js
+[js_17_11-1]: https://github.com/aod/advent-of-javascript/blob/master/2017/day11/part1.js
+[js_17_11-2]: https://github.com/aod/advent-of-javascript/blob/master/2017/day11/part2.js
+[js_17_10-1]: https://github.com/aod/advent-of-javascript/blob/master/2017/day10/part1.js
+[js_17_10-2]: https://github.com/aod/advent-of-javascript/blob/master/2017/day10/part2.js
+[js_17_9-1]: https://github.com/aod/advent-of-javascript/blob/master/2017/day09/part1.js
+[js_17_9-2]: https://github.com/aod/advent-of-javascript/blob/master/2017/day09/part2.js
+[js_17_8-1]: https://github.com/aod/advent-of-javascript/blob/master/2017/day08/part1.js
+[js_17_8-2]: https://github.com/aod/advent-of-javascript/blob/master/2017/day08/part2.js
+[js_17_7-1]: https://github.com/aod/advent-of-javascript/blob/master/2017/day07/part1.js
+[js_17_7-2]: https://github.com/aod/advent-of-javascript/blob/master/2017/day07/part2.js
+[js_17_6-1]: https://github.com/aod/advent-of-javascript/blob/master/2017/day06/part1.js
+[js_17_6-2]: https://github.com/aod/advent-of-javascript/blob/master/2017/day06/part2.js
+[js_17_5-1]: https://github.com/aod/advent-of-javascript/blob/master/2017/day05/part1.js
+[js_17_5-2]: https://github.com/aod/advent-of-javascript/blob/master/2017/day05/part2.js
+[js_17_4-1]: https://github.com/aod/advent-of-javascript/blob/master/2017/day04/part1.js
+[js_17_4-2]: https://github.com/aod/advent-of-javascript/blob/master/2017/day04/part2.js
+[js_17_3-1]: https://github.com/aod/advent-of-javascript/blob/master/2017/day03/part1.js
+[js_17_3-2]: https://github.com/aod/advent-of-javascript/blob/master/2017/day03/part2.js
+[js_17_2-1]: https://github.com/aod/advent-of-javascript/blob/master/2017/day02/part1.js
+[js_17_2-2]: https://github.com/aod/advent-of-javascript/blob/master/2017/day02/part2.js
+[js_17_1-1]: https://github.com/aod/advent-of-javascript/blob/master/2017/day01/part1.js
+[js_17_1-2]: https://github.com/aod/advent-of-javascript/blob/master/2017/day01/part2.js
+
+# Advent of Code 2016
+
+_TODO_
 
 # Advent of Code 2015
 
