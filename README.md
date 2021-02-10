@@ -21,6 +21,10 @@ their repositories.
 | ![](./logos/js.png) | [JavaScript][js_site] | [aod/advent-of-javascript][js_repo]
 | ![](./logos/go.png) | [Go][go_site] | [aod/advent-of-go][go_repo]
 
+(Some logos are too dark for dark mode users or too wide for my taste i.e. Rust 
+and Go. That's why some aren't the official ones and are replaced with a variant
+of it or their mascotte.)
+
 [rs_site]: https://www.rust-lang.org/
 [rs_repo]: https://github.com/aod/advent-of-rust
 [rs_l]: ./logos/rs.png
