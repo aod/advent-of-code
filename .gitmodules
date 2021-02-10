@@ -13,3 +13,6 @@
 [submodule "javascript"]
 	path = javascript
 	url = https://github.com/aod/advent-of-javascript.git
+[submodule "go"]
+	path = go
+	url = https://github.com/aod/advent-of-go.git

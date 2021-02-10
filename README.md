@@ -19,6 +19,7 @@ their repositories.
 | ![](./logos/clj.png) | [Clojure][clj_site] | [aod/advent-of-clojure][clj_repo]
 | ![](./logos/ts.png) | [TypeScript][ts_site] | [aod/advent-of-deno][ts_repo]
 | ![](./logos/js.png) | [JavaScript][js_site] | [aod/advent-of-javascript][js_repo]
+| ![](./logos/go.png) | [Go][go_site] | [aod/advent-of-go][go_repo]
 
 [rs_site]: https://www.rust-lang.org/
 [rs_repo]: https://github.com/aod/advent-of-rust
@@ -39,6 +40,10 @@ their repositories.
 [js_site]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [js_repo]: https://github.com/aod/advent-of-javascript
 [js_l]: ./logos/js.png
+
+[go_site]: https://golang.org/
+[go_repo]: https://github.com/aod/advent-of-go
+[go_l]: ./logos/go.png
 
 # Solutions
 
@@ -170,15 +175,15 @@ their repositories.
 | 12  |||
 | 11  |||
 | 10  |||
-|  9  |||
+|  9  | [![go_l]][go_18_9] | [![go_l]][go_18_9] |
 |  8  |||
 |  7  | [![js_l]][js_18_7-1] | [![js_l]][js_18_7-2] |
-|  6  |||
-|  5  |||
-|  4  |||
-|  3  | [![js_l]][js_18_3-1] | [![js_l]][js_18_3-2] |
-|  2  | [![js_l]][js_18_2-1] | [![js_l]][js_18_2-2] |
-|  1  | [![js_l]][js_18_1-1] | [![js_l]][js_18_1-2] |
+|  6  | [![go_l]][go_18_6] | [![go_l]][go_18_6] |
+|  5  | [![go_l]][go_18_5] | [![go_l]][go_18_5] |
+|  4  | [![go_l]][go_18_4] | [![go_l]][go_18_4] |
+|  3  | [![js_l]][js_18_3-1] [![go_l]][go_18_3] | [![js_l]][js_18_3-2] [![go_l]][go_18_3] |
+|  2  | [![js_l]][js_18_2-1] [![go_l]][go_18_2] | [![js_l]][js_18_2-2] [![go_l]][go_18_2] |
+|  1  | [![js_l]][js_18_1-1] [![go_l]][go_18_1] | [![js_l]][js_18_1-2] [![go_l]][go_18_1] |
 
 
 [js_18_7-1]: https://github.com/aod/advent-of-javascript/blob/master/2018/day07/part1.js
@@ -189,6 +194,15 @@ their repositories.
 [js_18_2-2]: https://github.com/aod/advent-of-javascript/blob/master/2018/day02/part2.js
 [js_18_1-1]: https://github.com/aod/advent-of-javascript/blob/master/2018/day01/part1.js
 [js_18_1-2]: https://github.com/aod/advent-of-javascript/blob/master/2018/day01/part2.js
+
+
+[go_18_9]: https://github.com/aod/advent-of-go/blob/master/2018/09/main.go
+[go_18_6]: https://github.com/aod/advent-of-go/blob/master/2018/06/main.go
+[go_18_5]: https://github.com/aod/advent-of-go/blob/master/2018/05/main.go
+[go_18_4]: https://github.com/aod/advent-of-go/blob/master/2018/04/main.go
+[go_18_3]: https://github.com/aod/advent-of-go/blob/master/2018/03/main.go
+[go_18_2]: https://github.com/aod/advent-of-go/blob/master/2018/02/solution.go
+[go_18_1]: https://github.com/aod/advent-of-go/blob/master/2018/01/solution.go
 
 ## Advent of Code 2017
 
