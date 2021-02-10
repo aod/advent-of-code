@@ -1,8 +1,18 @@
 # advent-of-code
 
-Welcome to my Advent of Code solutions hub repo!
+> Advent of Code is an Advent calendar of small programming puzzles for a 
+> variety of skill sets and skill levels that can be solved in any programming 
+> language you like. People use them as a speed contest, interview prep, company
+> training, university coursework, practice problems, or to challenge each other.
 
-| Logo | Language | Repo |
+Throughout the years I've completed Advent of Code puzzles in multiple 
+programming languages for learning purposes. This repo is a central hub and 
+overview with direct links to their solutions and repos.
+
+Below you'll find an overview of the languages I've written in and links to
+their repositories.
+
+| Logo | Language | Repository |
 |:----:|----------|------|
 | ![](./logos/rs.png) | [Rust][rs_site] | [aod/advent-of-rust][rs_repo]
 | ![](./logos/nim.png) | [Nim][nim_site] | [aod/advent-of-nim][nim_repo]
@@ -30,7 +40,9 @@ Welcome to my Advent of Code solutions hub repo!
 [js_repo]: https://github.com/aod/advent-of-javascript
 [js_l]: ./logos/js.png
 
-# Advent of Code 2020
+# Solutions
+
+## Advent of Code 2020
 
 | Day | Part 1 | Part 2 |
 |----:|--------|--------|
@@ -89,7 +101,7 @@ Welcome to my Advent of Code solutions hub repo!
 [ts_20_23]: https://github.com/aod/advent-of-deno/blob/main/src/2020/day23.ts
 [ts_20_22]: https://github.com/aod/advent-of-deno/blob/main/src/2020/day22.ts
 
-# Advent of Code 2019
+## Advent of Code 2019
 
 | Day | Part 1 | Part 2 |
 |----:|--------|--------|
@@ -138,7 +150,7 @@ Welcome to my Advent of Code solutions hub repo!
 [js_17_1-1]: https://github.com/aod/advent-of-javascript/blob/master/2019/day01/part1.js
 [js_17_1-2]: https://github.com/aod/advent-of-javascript/blob/master/2019/day01/part2.js
 
-# Advent of Code 2018
+## Advent of Code 2018
 
 | Day | Part 1 | Part 2 |
 |----:|--------|--------|
@@ -178,7 +190,7 @@ Welcome to my Advent of Code solutions hub repo!
 [js_17_1-1]: https://github.com/aod/advent-of-javascript/blob/master/2018/day01/part1.js
 [js_17_1-2]: https://github.com/aod/advent-of-javascript/blob/master/2018/day01/part2.js
 
-# Advent of Code 2017
+## Advent of Code 2017
 
 | Day | Part 1 | Part 2 |
 |----:|--------|--------|
@@ -243,11 +255,11 @@ Welcome to my Advent of Code solutions hub repo!
 [js_17_1-1]: https://github.com/aod/advent-of-javascript/blob/master/2017/day01/part1.js
 [js_17_1-2]: https://github.com/aod/advent-of-javascript/blob/master/2017/day01/part2.js
 
-# Advent of Code 2016
+## Advent of Code 2016
 
 _TODO_
 
-# Advent of Code 2015
+## Advent of Code 2015
 
 | Day | Part 1 | Part 2 |
 |----:|--------|--------|
