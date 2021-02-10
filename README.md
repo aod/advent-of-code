@@ -47,6 +47,9 @@ their repositories.
 
 # Solutions
 
+Within this section you'll find solutions lookup tables for each Advent of Code 
+year. Click on a logo to view the solution of that specific programming language.
+
 ## Advent of Code 2020
 
 | Day | Part 1 | Part 2 |
