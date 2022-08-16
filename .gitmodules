@@ -16,3 +16,6 @@
 [submodule "go"]
 	path = go
 	url = https://github.com/aod/advent-of-go.git
+[submodule "python"]
+	path = python
+	url = https://github.com/aod/advent-of-python.git
